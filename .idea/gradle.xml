@@ -8,6 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/eagle-db-aecid" />
+            <option value="$PROJECT_DIR$/eagle-db-client" />
+            <option value="$PROJECT_DIR$/eagle-db-common" />
+            <option value="$PROJECT_DIR$/eagle-db-server" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

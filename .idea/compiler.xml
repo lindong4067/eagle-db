@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eagle-db-aecid_main" target="1.8" />
+      <module name="eagle-db-aecid_test" target="1.8" />
+      <module name="eagle-db-client_main" target="1.8" />
+      <module name="eagle-db-client_test" target="1.8" />
+      <module name="eagle-db-common_main" target="1.8" />
+      <module name="eagle-db-common_test" target="1.8" />
+      <module name="eagle-db-server_main" target="1.8" />
+      <module name="eagle-db-server_test" target="1.8" />
+      <module name="eagle-db_main" target="1.8" />
+      <module name="eagle-db_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'com.lindong'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.typesafe.akka', name: 'akka-actor_2.12', version: '2.5.16'
+    compile group: 'com.typesafe.akka', name: 'akka-remote_2.12', version: '2.5.16'
+    compile group: 'org.scala-lang.modules', name: 'scala-java8-compat_2.12', version: '0.8.0'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    testCompile group: 'com.typesafe.akka', name: 'akka-testkit_2.12', version: '2.5.16'
+    compile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'com.novocode', name: 'junit-interface', version: '0.11'
+    testCompile group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.7.25'
+}

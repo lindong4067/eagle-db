@@ -1,2 +1,6 @@
 rootProject.name = 'eagle-db'
+include 'eagle-db-common'
+include 'eagle-db-server'
+include 'eagle-db-client'
+include 'eagle-db-aecid'
 

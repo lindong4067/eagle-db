@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eagle-db.iml" filepath="$PROJECT_DIR$/eagle-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-aecid.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-aecid.iml" group="eagle-db-aecid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-aecid/eagle-db-aecid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-aecid/eagle-db-aecid_main.iml" group="eagle-db-aecid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-aecid/eagle-db-aecid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-aecid/eagle-db-aecid_test.iml" group="eagle-db-aecid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-client.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-client.iml" group="eagle-db-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-client/eagle-db-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-client/eagle-db-client_main.iml" group="eagle-db-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-client/eagle-db-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-client/eagle-db-client_test.iml" group="eagle-db-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-common.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-common.iml" group="eagle-db-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-common/eagle-db-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-common/eagle-db-common_main.iml" group="eagle-db-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-common/eagle-db-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-common/eagle-db-common_test.iml" group="eagle-db-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-server.iml" group="eagle-db-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-server/eagle-db-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-server/eagle-db-server_main.iml" group="eagle-db-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db-server/eagle-db-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db-server/eagle-db-server_test.iml" group="eagle-db-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db_main.iml" group="eagle-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eagle-db_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eagle-db_test.iml" group="eagle-db" />
+    </modules>
+  </component>
+</project>
